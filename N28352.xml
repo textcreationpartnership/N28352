@@ -108,8 +108,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037784_0000_100F4D746D8ED780"/>
-            <pb facs="tcp:037784_0001_100F4CFE8CEAA400"/>
+            <pb facs="unknown:037784_0000_100F4D746D8ED780"/>
+            <pb facs="unknown:037784_0001_100F4CFE8CEAA400"/>
             <p>Reparation; OR, THE SCHOOL FOR LIBERTINES. <hi>A DRAMATIC PIECE</hi> IN THREE ACTS.</p>
             <p>BY THOMAS PIKE LATHY.</p>
             <p>As Performed at the <hi>Boſton</hi> Theatre, with great applauſe.</p>
@@ -119,7 +119,7 @@
             </p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:037784_0002_100F4D00DAF69680"/>
+            <pb facs="unknown:037784_0002_100F4D00DAF69680"/>
             <head>Dramatis Perſonae.</head>
             <list>
                <head>MEN.</head>
@@ -154,7 +154,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:037784_0003_100F4D0263599368"/>
+            <pb facs="unknown:037784_0003_100F4D0263599368"/>
             <head>Reparation; OR THE SCHOOL FOR LIBERTINES.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -184,7 +184,7 @@
                   <sp>
                      <speaker>Blan.</speaker>
                      <p>This way, your honors, this way; I beg
-<pb n="4" facs="tcp:037784_0004_100F4D0673A77AF0"/>
+<pb n="4" facs="unknown:037784_0004_100F4D0673A77AF0"/>
 your honor's pardon for keeping you ſo long at the door, but—</p>
                   </sp>
                   <sp>
@@ -244,7 +244,7 @@ your honor's pardon for keeping you ſo long at the door, but—</p>
                      <p>Excuſe me, my Lord; whatever joy I might feel at my return to this much lov'd ſpot, is damp'd by the reflection of what may have been occaſion'd by my own imprudence. I left a rever'd father, a belov'd ſiſter, to fly from the torments of a hopeleſs paſſion! Should any misfortune have happened to either of them in my absence, I ſhall ever look on myſelf as the cauſe of it.</p>
                   </sp>
                   <sp>
-                     <pb n="5" facs="tcp:037784_0005_100F4D07FB66E8C0"/>
+                     <pb n="5" facs="unknown:037784_0005_100F4D07FB66E8C0"/>
                      <speaker>Lord Stan.</speaker>
                      <p>But, why regard only the gloomy ſide of the picture? Figure to yourſelf, a father enjoying a down till of life, unclouded by ſorrow; cheer'd by the attentions of a much lov'd virtuous daughter; and en<g ref="char:EOLhyphen"/>liven'd by the hopes of once more claſping in his arms, a ſon ripen'd to manhood, humaniz'd by a knowledge of the world, and returning to be the prop and com<g ref="char:EOLhyphen"/>fort of his laſt moments. And then—</p>
                   </sp>
@@ -281,7 +281,7 @@ your honor's pardon for keeping you ſo long at the door, but—</p>
                   <sp>
                      <speaker>Lord Stan.</speaker>
                      <p>You're juſt in time, I was going to pre<g ref="char:EOLhyphen"/>ſcribe
-<pb n="6" facs="tcp:037784_0006_100F4D098944F490"/>
+<pb n="6" facs="unknown:037784_0006_100F4D098944F490"/>
 to my friend here, who is fatigued, and low ſpir<g ref="char:EOLhyphen"/>ited, a drop of your cordial—</p>
                   </sp>
                   <sp>
@@ -333,7 +333,7 @@ to my friend here, who is fatigued, and low ſpir<g ref="char:EOLhyphen"/>ited, 
                      <p>(<hi>solus</hi>) Bleſs'd!—yes, were I aſſured that my father and ſiſter were alive and well, and my Valence true hearted, I ſhould be the happieſt dog in the creation!—I don't know why, ſomething damps my riſing joy—</p>
                   </sp>
                   <stage>
-                     <pb n="7" facs="tcp:037784_0007_100F4D0B9660C280"/>
+                     <pb n="7" facs="unknown:037784_0007_100F4D0B9660C280"/>
 Enter BLANCO.</stage>
                   <sp>
                      <speaker>Blan.</speaker>
@@ -394,7 +394,7 @@ Enter BLANCO.</stage>
                   </sp>
                   <stage>[Exit.</stage>
                   <sp>
-                     <pb n="8" facs="tcp:037784_0008_100F4D0F08051DA8"/>
+                     <pb n="8" facs="unknown:037784_0008_100F4D0F08051DA8"/>
                      <speaker>Blan.</speaker>
                      <p>(<hi>solus</hi>) Hey! what! a Crown (<hi>rubbing his eyes</hi>) Do I ſee clear? or does my morning's draught make me ſee double? No, 'tis as I live; well! I de<g ref="char:EOLhyphen"/>clare, what a fine thing it is to go of an errand for ſuch a free hearted gentleman! I do believe, now, that if he were to put ſuch another piece of money in<g ref="char:EOLhyphen"/>to my hand, with ſuch a good natured look, and ſay "good Blanco, go to the Devil"—I ſhould be tempted to go, if I could but find the way.</p>
                      <lg>
@@ -434,7 +434,7 @@ Enter BLANCO.</stage>
                   <sp>
                      <speaker>Polaco.</speaker>
                      <p>To work! to work! ye ſluggiſh knaves! was there any ſhame in ye, the blazing ſun would diſ<g ref="char:EOLhyphen"/>cover
-<pb n="9" facs="tcp:037784_0009_100F4D10F20C1E58"/>
+<pb n="9" facs="unknown:037784_0009_100F4D10F20C1E58"/>
 it; but no—ye can eat, drink and ſing; that's all ye are good for, ye lazy, lubberly, idle, giggling, tittle tattling—</p>
                   </sp>
                   <sp>
@@ -475,7 +475,7 @@ it; but no—ye can eat, drink and ſing; that's all ye are good for, ye lazy, l
                   </sp>
                   <stage>(<hi>Bowing very low</hi>)</stage>
                   <sp>
-                     <pb n="10" facs="tcp:037784_0010_100F4D13E5B2E8D0"/>
+                     <pb n="10" facs="unknown:037784_0010_100F4D13E5B2E8D0"/>
                      <speaker>Chap.</speaker>
                      <p>Honor, indeed! hem! (<hi>aſide</hi>) if you knew all. Well, Polaco, you may go about your buſineſs now; I wiſh to have ſome private conference with your daughter;</p>
                   </sp>
@@ -554,7 +554,7 @@ it; but no—ye can eat, drink and ſing; that's all ye are good for, ye lazy, l
                   <sp>
                      <speaker>Chap.</speaker>
                      <p>Hold! not ſo faſt! (<hi>ſtopping her</hi>) Let me tell you that I have your father's conſent, and I think
-<pb n="11" facs="tcp:037784_0011_100F4D168A3F1F88"/>
+<pb n="11" facs="unknown:037784_0011_100F4D168A3F1F88"/>
 but little of your's. He has authoris'd me to take any ſteps,—</p>
                   </sp>
                   <sp>
@@ -617,7 +617,7 @@ but little of your's. He has authoris'd me to take any ſteps,—</p>
                      <p>You ſhall this inſtant; and I wiſh every ſcoundrel, who dares to lay hands of violence on a wo<g ref="char:EOLhyphen"/>man, may receive the <hi>ſatisfaction,</hi> I hope to give you. Come, Sir, why don't you draw?</p>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:037784_0012_100F4D182717C448"/>
+                     <pb n="12" facs="unknown:037784_0012_100F4D182717C448"/>
                      <speaker>Chap.</speaker>
                      <p>A gentleman never draws his ſword in the preſence of a female.</p>
                   </sp>
@@ -680,7 +680,7 @@ but little of your's. He has authoris'd me to take any ſteps,—</p>
                      </p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:037784_0013_100F4D1B9331F890"/>
+                     <pb n="13" facs="unknown:037784_0013_100F4D1B9331F890"/>
                      <speaker>Young Lat.</speaker>
                      <p>Your daughter's ſcreams drew me to protect her from the hands of that villain.</p>
                   </sp>
@@ -740,7 +740,7 @@ but little of your's. He has authoris'd me to take any ſteps,—</p>
                   <sp>
                      <speaker>Young Lat.</speaker>
                      <p>Let me aſſure you, Sir, that it is not my
-<pb n="14" facs="tcp:037784_0014_100F4D1E8A3046C0"/>
+<pb n="14" facs="unknown:037784_0014_100F4D1E8A3046C0"/>
 intention to gain, your daughter in a clandeſtine man<g ref="char:EOLhyphen"/>ner: If you will hear a few words, I hope to convince you that my pretenſions to her—</p>
                   </sp>
                   <sp>
@@ -799,7 +799,7 @@ intention to gain, your daughter in a clandeſtine man<g ref="char:EOLhyphen"/>n
                      <p>You are right, Sir,</p>
                   </sp>
                   <sp>
-                     <pb n="15" facs="tcp:037784_0015_100F4D20133C06C8"/>
+                     <pb n="15" facs="unknown:037784_0015_100F4D20133C06C8"/>
                      <speaker>Old Lat.</speaker>
                      <p>Heaven reward you! (<hi>weeps</hi>) I thought the fountains of my eyes were exhauſted; but they flow afreſh. Pardon me, Sir, these are the first tears of the kind I have ſhed for many a year; for they are tears of joy-of joy for my boy's ſafety!</p>
                   </sp>
@@ -843,7 +843,7 @@ intention to gain, your daughter in a clandeſtine man<g ref="char:EOLhyphen"/>n
                   <sp>
                      <speaker>Old Lat.</speaker>
                      <p>Happineſs! oh! no; a ſmall gleam of that can ever fall to my lot! the preſence of my ſon
-<pb n="16" facs="tcp:037784_0016_100F4D22768496B8"/>
+<pb n="16" facs="unknown:037784_0016_100F4D22768496B8"/>
 may, indeed, end'ven the gloom at intervals, but can<g ref="char:EOLhyphen"/>not <gap reason="illegible: indecipherable" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap> the preſſure I feel here. (<hi>pointing to his breaſt and weeping</hi>) Excuſe me, Sir, I am old and weak. The iron rod of affliction has fallen heavy on me, and bruis'd me forely; I feel the period approach<g ref="char:EOLhyphen"/>ing, when the cold, yet friendly, hand of death, will cloſe the woeful account.</p>
@@ -887,7 +887,7 @@ may, indeed, end'ven the gloom at intervals, but can<g ref="char:EOLhyphen"/>not
                   <sp>
                      <speaker>Old Lat.</speaker>
                      <p>'Twas more than I had on my poor child, my poor loſt, undone Julietta! (<hi>pauſe</hi>) Pardon me, ſir,
-<pb n="17" facs="tcp:037784_0017_100F4D24BAFD2688"/>
+<pb n="17" facs="unknown:037784_0017_100F4D24BAFD2688"/>
 'tis a hard taſk for a guilty mind to unburthen itſelf, but I will endeavour to comply with your requeſt. My boy left me in the utmost deſpair, dreading the dangers which the phrenzy of hopeleſs love might drive him into. My remaining child sat with me, wept with me, reaſon'd with me, and lull'd me with hopes into a kind of placid ſtupor. Near two years elaps'd in this manner, when ſhe became penſive—ſigh'd—ſeem'd to wish to avoid even my company—and when her eyes met mine, I could obſerve them bedew'd with tears. Suppoſing grief for her brother's hopeleſs return to be the cauſe, I, in my turn; endeavoured to conſole her, but in vain! Deſpairing at length of being able to conceal it from me much longer, ſhe related the dread<g ref="char:EOLhyphen"/>ful ſtory—<hi>ſhe had been ſeduc'd, and abandon'd by a villain!</hi>
                      </p>
                   </sp>
@@ -924,7 +924,7 @@ may, indeed, end'ven the gloom at intervals, but can<g ref="char:EOLhyphen"/>not
                      <p>Rather let me bury the ſequel in this dark breaſt, than wound your ſenſibility any farther.</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:037784_0018_100F4D27B47C3BC8"/>
+                     <pb n="18" facs="unknown:037784_0018_100F4D27B47C3BC8"/>
                      <speaker>Lord Stan.</speaker>
                      <p>No, proceed—I entreat you to tell me what became of your unhappy daughter.</p>
                   </sp>
@@ -980,7 +980,7 @@ may, indeed, end'ven the gloom at intervals, but can<g ref="char:EOLhyphen"/>not
                      <p>But how?</p>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:037784_0019_100F4D2940B52318"/>
+                     <pb n="19" facs="unknown:037784_0019_100F4D2940B52318"/>
                      <speaker>Chap.</speaker>
                      <p>That is what I want to conſult you upon I know, by experience, you are not chicken hearted, conſcientious dogs, afraid of ſpilling a little blood.</p>
                   </sp>
@@ -1015,7 +1015,7 @@ may, indeed, end'ven the gloom at intervals, but can<g ref="char:EOLhyphen"/>not
                   <sp>
                      <speaker>VALENCE.</speaker>
                      <p>Cruel father! can any thing be ſo inflexibly obdurate as thy heart! Love, they ſay, is the ſtrongeſt of paſ<g ref="char:EOLhyphen"/>ſions; but furely Avarice goes beyond it. Friendſhip, nay Generoſity, have, in ſome inſtances, triumph'd over Love; but Avarice is unconquerable by either. Paren<g ref="char:EOLhyphen"/>tal
-<pb n="20" facs="tcp:037784_0020_100F4D2B83431158"/>
+<pb n="20" facs="unknown:037784_0020_100F4D2B83431158"/>
 affection, the ſtrongeſt of human ties, is totally diſ<g ref="char:EOLhyphen"/>regarded when in competition with it: and we daily ſee unnatural father's ſacrificing their children's happineſs in this world to the ſordid and baſe conſideration of wealth! I have ſtolen out to meet Latouche; why doesn't the ſpirit who preſides over Love tell it him by inſtinct; or why does he not contrive ſome means of ſending me a letter?</p>
                   </sp>
                   <stage>(Muſing)</stage>
@@ -1090,7 +1090,7 @@ affection, the ſtrongeſt of human ties, is totally diſ<g ref="char:EOLhyphen"
                   <sp>
                      <speaker>Blan.</speaker>
                      <p>(<hi>while she reads</hi>) Well then my guardian an<g ref="char:EOLhyphen"/>gel is dev'liſh honeſt fellow. I always carry him in my pocket, (<hi>takes out a bottle</hi>) and whether my foot<g ref="char:EOLhyphen"/>steps
-<pb n="21" facs="tcp:037784_0021_100F4D2E835A13F8"/>
+<pb n="21" facs="unknown:037784_0021_100F4D2E835A13F8"/>
 are right or not, is juſt according to the homage I pay him.</p>
                   </sp>
                   <stage>(Drinks)</stage>
@@ -1145,7 +1145,7 @@ are right or not, is juſt according to the homage I pay him.</p>
                      <speaker>Chap.</speaker>
                      <p>
                         <hi>"If he comes to the little wood at the end of the
-<pb n="22" facs="tcp:037784_0022_100F4D30C529F1F8"/>
+<pb n="22" facs="unknown:037784_0022_100F4D30C529F1F8"/>
 garden gate about ſun-ſet, I will contrive to meet him,"</hi>—So we will, all, hey, boys?</p>
                   </sp>
                   <sp>
@@ -1191,7 +1191,7 @@ garden gate about ſun-ſet, I will contrive to meet him,"</hi>—So we will, al
                      <p>My dear Lord!—(<hi>advancing nearer</hi>)</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:037784_0023_100F4D324E46B960"/>
+                     <pb n="23" facs="unknown:037784_0023_100F4D324E46B960"/>
                      <speaker>Lord Stan.</speaker>
                      <p>How would his affectionate ſtile be chang'd, did he but know he addreſs'd himſelf to the murderer of his family's peace; oh!</p>
                   </sp>
@@ -1264,7 +1264,7 @@ garden gate about ſun-ſet, I will contrive to meet him,"</hi>—So we will, al
                      </p>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:037784_0024_100F4D359EE95098"/>
+                     <pb n="24" facs="unknown:037784_0024_100F4D359EE95098"/>
                      <speaker>Young Lat.</speaker>
                      <p>Don't keep me in ſuſpence, what did ſhe ſay to you?</p>
                   </sp>
@@ -1334,7 +1334,7 @@ garden gate about ſun-ſet, I will contrive to meet him,"</hi>—So we will, al
                   <sp>
                      <speaker>Chap.</speaker>
                      <p>Spoke with ſpirit! But mind, Polaco! not a word of what has paſs'd to your daughter! her in<g ref="char:EOLhyphen"/>genuity may communicate our diſcovery to him, and
-<pb n="25" facs="tcp:037784_0025_100F4D38A5838400"/>
+<pb n="25" facs="unknown:037784_0025_100F4D38A5838400"/>
 fruſtrate our plan, only keep watch; and if ſhe goes out at the garden gate at the time appointed, you will be aſſur'd of the truth of my information, there will be no danger; I ſhall take care there will be no one there to meet her but myſelf.</p>
                   </sp>
                   <sp>
@@ -1358,7 +1358,7 @@ fruſtrate our plan, only keep watch; and if ſhe goes out at the garden gate at
                   <sp>
                      <speaker>PASTOR.</speaker>
                      <p>What! my fair penitent! ſtill mournful! still dubi<g ref="char:EOLhyphen"/>ous of the all-working hand of Providence! Let me
-<pb n="26" facs="tcp:037784_0026_100F4D3B0DB31C50"/>
+<pb n="26" facs="unknown:037784_0026_100F4D3B0DB31C50"/>
 intreat you not to add to your failings, a diſtruſt of his merciful goodneſs.</p>
                   </sp>
                   <sp>
@@ -1407,7 +1407,7 @@ intreat you not to add to your failings, a diſtruſt of his merciful goodneſs.
                   <sp>
                      <speaker>Lord Stan.</speaker>
                      <p>He is return'd adorn'd with every vir<g ref="char:EOLhyphen"/>tue that falls to human lot; return'd! eager to ſolace his aged, honour'd parent! but he finds him over<g ref="char:EOLhyphen"/>whelmed
-<pb n="27" facs="tcp:037784_0027_100F4D3D5449D518"/>
+<pb n="27" facs="unknown:037784_0027_100F4D3D5449D518"/>
 with diſtreſs—the reaſons you are already too well acquainted with.</p>
                   </sp>
                   <sp>
@@ -1473,7 +1473,7 @@ with diſtreſs—the reaſons you are already too well acquainted with.</p>
                   </sp>
                   <stage>(Exit)</stage>
                   <sp>
-                     <pb n="28" facs="tcp:037784_0028_100F4D3EEC8746D8"/>
+                     <pb n="28" facs="unknown:037784_0028_100F4D3EEC8746D8"/>
                      <speaker>Lord Stan.</speaker>
                      <p>(<hi>ſolus, riſing up</hi>) 'Tis ſo: That ring I gave her at parting, and pledg'd with it my honor—<hi>honor!</hi> that word from my lips! a villain's lips! Oh! it was honorable to ſeduce an artleſs, innocent, lovely girl, and then leave her till ſhe fell a prey to deſpair and ſhame? that word <hi>"Honor"</hi> pronounced by my lips was a helliſh falſehood utter'd to deceive and ruin a credulous fair, who lov'd, alas! too well!—Shame! shame!—where can I ſeek for excuſe? Will the fre<g ref="char:EOLhyphen"/>quency of the crime ſerve! No—Murder is murder ſtill how oft ſoever perpetrated. Is it puniſhable? No.—Men of the higheſt rank commit, countenance, nay boaſt of it? Why then ſhould <hi>I</hi> be thus agitated? Some<g ref="char:EOLhyphen"/>thing will not reſt here, (<hi>his heart</hi>) and tho' the <hi>world</hi> may not call me <hi>villain,</hi> makes <hi>me</hi> know myſelf to be <hi>one.</hi>
                      </p>
@@ -1512,7 +1512,7 @@ with diſtreſs—the reaſons you are already too well acquainted with.</p>
                   <sp>
                      <speaker>Lord Stan.</speaker>
                      <p>About eight years ſince, my father ſent me to make the grand tour of Europe. Having a taſte for painting, I would not neglect to view the pic<g ref="char:EOLhyphen"/>tureſque mountains and vallies of Switzerland. I ar<g ref="char:EOLhyphen"/>rived at this ſpot—going one fine morning to view the beauties of nature, heightened by the riſing ſun I met the lovely Julietta in ſearch of ſome ſtray lambs—I ad<g ref="char:EOLhyphen"/>mired and accoſted her; her anſwers, full of ſweetneſs and ſimplicity, enchanted my youthful mind, then of a romantic turn. At parting ſhe told me, that ſhe alone
-<pb n="29" facs="tcp:037784_0029_100F4D41EF279438"/>
+<pb n="29" facs="unknown:037784_0029_100F4D41EF279438"/>
 attended an aged parent, who impatiently expected her return. Her filial piety endeared her ſo much to me, that I could ſcarce check myſelf from offering to ſhare that amiable taſk with her—with difficulty, I obtained her promiſe to ſee me again at the ſame ſpot. She kept her word—we grew intereſting to each other—interview ſucceeded interview—till firmly perſuaded of my truth and honour, ſhe <hi>yielded!!</hi>—How could her unſuſpect<g ref="char:EOLhyphen"/>ing mind eſcape contagion! I paſs'd the time as in a dream of happineſs; till I was rous'd by the arrival of a courier from my father, with a letter announcing that his dangerous ſtate of health threatened a ſpeedy diſſo<g ref="char:EOLhyphen"/>lution, and commanding me to loſe no time in haſten<g ref="char:EOLhyphen"/>ing home—I had ſcarce courage to tell the tidings to Julietta, who receiv'd them as I expected—<hi>in an agony of grief</hi>—I endeavour'd to ſoothe her by a promiſe of returning ſo ſoon as my father ſhould recover, or I ſhould have cloſed his eyes. Obliged to depart—I gave her that ring as a pledge of my <hi>honour!</hi>—On my arrival in England, I found my father on the recovery, he lingered out ſome years, while I, in vain, ſtrove to deaden reflection by joining the vortex of faſhionable diſſipation. After his death, I became Lord Stanton; the ſettlement of his affairs required my longer ſtay; I finiſhed with all ſpeed—and ſat out, hoping to find my Julietta ſtill alive, and to make her lawful reparation for her injured fame—by <hi>marriage.</hi>
                      </p>
                   </sp>
@@ -1523,7 +1523,7 @@ attended an aged parent, who impatiently expected her return. Her filial piety e
                   <sp>
                      <speaker>Lord Stan.</speaker>
                      <p>Heaven is my witneſs, it was.—On the journey my life was preſerv'd by her brother, who was then on his return home; hearing this was his na<g ref="char:EOLhyphen"/>tive place, I took him with me in my chaiſe. He told me why he left his home—I lov'd him for his courage, truth and conſtancy; and, as my fortune is immenſe, I experienced the moſt heartfelt joy to think I could not only pay my debt of gratitude to my preſerver, by en<g ref="char:EOLhyphen"/>abling him to marry the girl he ador'd, but alſo ſur<g ref="char:EOLhyphen"/>prize my Julietta with wealth and honour, Judge, then, my feelings, when I found all theſe glorious proſ<g ref="char:EOLhyphen"/>pects
-<pb n="30" facs="tcp:037784_0030_100F4D4435854370"/>
+<pb n="30" facs="unknown:037784_0030_100F4D4435854370"/>
 blighted at once <gap reason="illegible: indecipherable" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> my Julietta's death, and the knowledge that I was <gap reason="illegible: indecipherable" extent="1 word">
@@ -1555,7 +1555,7 @@ blighted at once <gap reason="illegible: indecipherable" extent="1 word">
                      <p>Sir, I thank you for giving me, <hi>ſo freely,</hi> what I came to aſk—<hi>your advice.</hi> I had deſign'd to have made a full confeſſion of my guilt ſo ſoon as I re<g ref="char:EOLhyphen"/>ceived its confirmation from you; to do it <hi>now,</hi> I agree with you, would be imprudent. For myſelf—withdrawn from the world, I'll penance out the reſidue of my life in pray'rs to Heaven and Julietta for for<g ref="char:EOLhyphen"/>giveneſs. My fortune, this paper (<hi>gives a folded pa<g ref="char:EOLhyphen"/>per to the Paſtor</hi>) leaves entirely to your diſpoſal. Give of it, what you may think neceſſary to the happineſs of Latouche's injured family. The reſt beſtow in ſuch charitable uſes as your benevolence may dictate.</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:037784_0031_100F4D45E1C76E30"/>
+                     <pb n="31" facs="unknown:037784_0031_100F4D45E1C76E30"/>
                      <speaker>Paſt.</speaker>
                      <p>I cannot now entertain a ſingle doubt of your being a ſincere penitent (<hi>riſing, embraces him</hi>) you have done all that <hi>now</hi> remains in your power to do. As to this paper, your confidence in me will not be miſplac'd</p>
                   </sp>
@@ -1607,7 +1607,7 @@ blighted at once <gap reason="illegible: indecipherable" extent="1 word">
                   <sp>
                      <speaker>Jul.</speaker>
                      <p>My life! I am better already—go, get me the
-<pb n="32" facs="tcp:037784_0032_100F4D489E2B30B8"/>
+<pb n="32" facs="unknown:037784_0032_100F4D489E2B30B8"/>
 water, I ſhall not be alone, I think I hear the Paſtor coming—Go, my love!—(<hi>kiſſes the child and leads him to the left ſide of the ſtage—liſtens</hi>) 'tis—I know his ſtep! ſurely this trembling forewarns me of ſome<g ref="char:EOLhyphen"/>thing that I'm nearly concern'd in.</p>
                   </sp>
                   <stage>Enter</stage>
@@ -1660,7 +1660,7 @@ water, I ſhall not be alone, I think I hear the Paſtor coming—Go, my love!�
                      <p>I do, more than life.</p>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:037784_0033_100F4D4BD99C9C30"/>
+                     <pb n="33" facs="unknown:037784_0033_100F4D4BD99C9C30"/>
                      <speaker>Paſt.</speaker>
                      <p>He lov'd you?</p>
                   </sp>
@@ -1701,7 +1701,7 @@ water, I ſhall not be alone, I think I hear the Paſtor coming—Go, my love!�
                      <p>I did, indeed.</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:037784_0034_100F4D4E6392A4C8"/>
+                     <pb n="34" facs="unknown:037784_0034_100F4D4E6392A4C8"/>
                      <speaker>Paſt.</speaker>
                      <p>Attend! The ſtranger who came juſt now, was the perſon whoſe life your brother ſav'd! He is, by birth, an Engliſhman.</p>
                   </sp>
@@ -1775,7 +1775,7 @@ water, I ſhall not be alone, I think I hear the Paſtor coming—Go, my love!�
                      <p>Quite reſign'd. If you have any thing more to communicate, fear not—the greateſt ſhock is paſt.</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:037784_0035_100F4D50A6467258"/>
+                     <pb n="35" facs="unknown:037784_0035_100F4D50A6467258"/>
                      <speaker>Paſt.</speaker>
                      <p>Perhaps not: tho' what you've heard is won<g ref="char:EOLhyphen"/>derful; yet arm yourſelf for what is—<hi>more</hi> ſo!</p>
                   </sp>
@@ -1827,7 +1827,7 @@ water, I ſhall not be alone, I think I hear the Paſtor coming—Go, my love!�
                      <p>Ha! Valence, what brings you here?</p>
                   </sp>
                   <sp>
-                     <pb n="36" facs="tcp:037784_0036_100F4D52C4128AA0"/>
+                     <pb n="36" facs="unknown:037784_0036_100F4D52C4128AA0"/>
                      <speaker>Val.</speaker>
                      <p>The fineneſs of the evening, Sir, A garden is a charming place for meditation; and I was taking a walk to conſider of what you were ſaying to me to-day.</p>
                   </sp>
@@ -1868,7 +1868,7 @@ water, I ſhall not be alone, I think I hear the Paſtor coming—Go, my love!�
                   <stage>[Exit.</stage>
                </div>
                <div type="scene">
-                  <pb n="37" facs="tcp:037784_0037_100F4D569806CD78"/>
+                  <pb n="37" facs="unknown:037784_0037_100F4D569806CD78"/>
                   <head>SCENE. Wood.</head>
                   <stage>Enter CHAPONE and two RUFFIANS.</stage>
                   <sp>
@@ -1905,7 +1905,7 @@ water, I ſhall not be alone, I think I hear the Paſtor coming—Go, my love!�
                   <sp>
                      <speaker>Chap.</speaker>
                      <p>Not a minute; we've expected you ſome time, tho' we knew you were too polite to diſappoint us;
-<pb n="38" facs="tcp:037784_0038_100F4D58207AED18"/>
+<pb n="38" facs="unknown:037784_0038_100F4D58207AED18"/>
 you're heartily welcome. (<hi>to Ruffians</hi>) Conduct this gentleman to the place appointed for his reception.</p>
                   </sp>
                   <sp>
@@ -1967,7 +1967,7 @@ you're heartily welcome. (<hi>to Ruffians</hi>) Conduct this gentleman to the pl
                   <sp>
                      <speaker>Blan.</speaker>
                      <p>I have had a pretty hard days work on't—
-<pb n="39" facs="tcp:037784_0039_100F4D59A9BFFD00"/>
+<pb n="39" facs="unknown:037784_0039_100F4D59A9BFFD00"/>
 and, as your honor, and the ſweet lady I gave your let<g ref="char:EOLhyphen"/>ter to, this morning, paid me ſo very liberally, I ſat down with a determination to recruit my <hi>ſpirits</hi>—ſo as I was ſitting with my bottle before me, thinking that if your honor was ſo pleaſed, I would rather run of er<g ref="char:EOLhyphen"/>rands for you and your ſweet lady, than draw ſour wine for our landlord, (who, by the bye, is a damn'd old ſcoundrel, and not like old Joſefo, whom your honor knew)—who ſhould pop in but our Paſtor. He aſked for you—I told him you were gone out on a <hi>little private buſineſs</hi>—but I would'nt blab; for I remember<g ref="char:EOLhyphen"/>ed your charge to be <hi>faithful</hi>—then ſays the Paſtor, "if you know where he is, go to him; charge him by all his hopes of happineſs—by filial duty, and every earthly tie, to haſten to my houſe—If he neglects, he may have cauſe to repent it forever."</p>
                   </sp>
                   <sp>
@@ -2012,7 +2012,7 @@ and, as your honor, and the ſweet lady I gave your let<g ref="char:EOLhyphen"/>
                   <sp>
                      <speaker>Val.</speaker>
                      <p>Oh, my dear Latouche, I'm glad I've found you—juſt as I enter'd the wood, I ſaw that villain,
-<pb n="40" facs="tcp:037784_0040_100F4D5C20E2D2C0"/>
+<pb n="40" facs="unknown:037784_0040_100F4D5C20E2D2C0"/>
 whom you chaſtis'd this morning, and two others run<g ref="char:EOLhyphen"/>ning towards our houſe with the utmoſt ſpeed—I fear'd they had contriv'd ſome miſchief againſt you—</p>
                   </sp>
                   <sp>
@@ -2053,7 +2053,7 @@ whom you chaſtis'd this morning, and two others run<g ref="char:EOLhyphen"/>nin
                   <sp>
                      <speaker>Paſt.</speaker>
                      <p>(<hi>ſolus</hi>) Now, I wiſh that my viſitors were all come. I have much to go thro' to night; but as the
-<pb n="41" facs="tcp:037784_0041_100F27640DFFADE0"/>
+<pb n="41" facs="unknown:037784_0041_100F27640DFFADE0"/>
 peace of ſo many depend upon my exertions, I hope I ſhall be able finiſh with a coup d'eclat.</p>
                   </sp>
                   <stage>Enter Young LATOUCHE, VALENCE and BLANCO.</stage>
@@ -2113,7 +2113,7 @@ peace of ſo many depend upon my exertions, I hope I ſhall be able finiſh with
                      <p>So, here you are, Miſs! this is your prudent determination, after your ſtruggle between love and du<g ref="char:EOLhyphen"/>ty, is it? but you ſee I am pretty cloſe at your heels. (<hi>To Paſtor</hi>) Sir, a man of your character and function will not, I ſuppoſe, encourage the diſobedience of chil<g ref="char:EOLhyphen"/>dren to their parents?</p>
                   </sp>
                   <sp>
-                     <pb n="42" facs="tcp:037784_0042_100F4D5E8FD4B048"/>
+                     <pb n="42" facs="unknown:037784_0042_100F4D5E8FD4B048"/>
                      <speaker>Paſt.</speaker>
                      <p>Never, Sir. Your daughter came here a few minutes ago—but entirely unexpected by me. There ſhe is at your diſpoſal.</p>
                   </sp>
@@ -2176,7 +2176,7 @@ peace of ſo many depend upon my exertions, I hope I ſhall be able finiſh with
                   </sp>
                   <stage>[Exit Paſtor.</stage>
                   <sp>
-                     <pb n="43" facs="tcp:037784_0043_100F4D61950F5F68"/>
+                     <pb n="43" facs="unknown:037784_0043_100F4D61950F5F68"/>
                      <speaker>Chap.</speaker>
                      <p>(<hi>fiercely</hi>) How! <hi>dare</hi> you, Polaco, enter into treaty with another, after your engagement with me? and before my face!</p>
                   </sp>
@@ -2251,7 +2251,7 @@ peace of ſo many depend upon my exertions, I hope I ſhall be able finiſh with
                      <p>I humbly beg your Lordſhip's pardon—I was unacquainted—</p>
                   </sp>
                   <sp>
-                     <pb n="44" facs="tcp:037784_0044_100F4D63774D2678"/>
+                     <pb n="44" facs="unknown:037784_0044_100F4D63774D2678"/>
                      <speaker>Lord Stan.</speaker>
                      <p>No apologies, you agree to the match?</p>
                   </sp>
@@ -2312,7 +2312,7 @@ peace of ſo many depend upon my exertions, I hope I ſhall be able finiſh with
                   <stage>[Exit.</stage>
                </div>
                <div type="scene">
-                  <pb n="45" facs="tcp:037784_0045_100F4D66B2B8C1A8"/>
+                  <pb n="45" facs="unknown:037784_0045_100F4D66B2B8C1A8"/>
                   <head>SCENE. A Chapel.</head>
                   <stage>A Tomb with folding doors—and a Lamp over them—on one ſide—an altar with candles on the other.</stage>
                   <stage>Enter PASTOR, and Lord STANTON, in mourning</stage>
@@ -2331,7 +2331,7 @@ peace of ſo many depend upon my exertions, I hope I ſhall be able finiſh with
                      <p>Lovely ſpirit! I thank thee for this to<g ref="char:EOLhyphen"/>ken of thy forgiveneſs! Yes, tho' I know thine aerial ſpirit cannot be polluted by my touch;—yet will I try to graſp the beauteous ſhade! (<hi>kneels, and takes her hand</hi>) Gracious God! is it poſſible! Speak! ſpeak! and confirm the wonder!</p>
                   </sp>
                   <sp>
-                     <pb n="46" facs="tcp:037784_0046_100F4D6900BC6A60"/>
+                     <pb n="46" facs="unknown:037784_0046_100F4D6900BC6A60"/>
                      <speaker>Jul.</speaker>
                      <p>My huſband! (<hi>falls on his neck.</hi>)</p>
                   </sp>
